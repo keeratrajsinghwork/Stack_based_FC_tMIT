@@ -1,0 +1,20 @@
+"Reference","Value","Footprint","Datasheet","Availability","Check_prices","Description","MANUFACTURER","MF","MP","PARTREV","Package","Price","Purchase-URL","STANDARD","SnapEDA_Link","Qty"
+"C1, C2, C4-C7","0.1u","Capacitor_SMD:C_0805_2012Metric","~","","","","","","","","","","","","","6"
+"C3","10u","Capacitor_SMD:C_0805_2012Metric","~","","","","","","","","","","","","","1"
+"DS1-DS4","LED_IMU","LED_SMD:LED_0805_2012Metric","C2297","","","","","","","","","","","","","4"
+"Q1-Q4","PZT2222A","Package_TO_SOT_SMD:SOT-223-3_TabPin2","https://www.onsemi.com/pub/Collateral/PN2222-D.PDF","","","","","","","","","","","","","4"
+"R1, R2, R4, R5","22","Resistor_SMD:R_0805_2012Metric","~","","","","","","","","","","","","","4"
+"R3","100","Resistor_SMD:R_0805_2012Metric","~","","","","","","","","","","","","","1"
+"R6-R9","56","Resistor_SMD:R_0805_2012Metric","C106949","","","","","","","","","","","","","4"
+"TP1-TP4","TestPoint_Probe","TestPoint:TestPoint_Pad_2.0x2.0mm","~","","","","","","","","","","","","","4"
+"U1","MS560702BA03-50","FC'24:MS560702BA03-50","","In Stock","https://www.snapeda.com/parts/MS560702BA03-50/TE-CO/view-part/?ref=eda","
+Sensor, BAROMETRIC SENSOR METAL CAP, Pressure, MS560702BA03-50 | TE Connectivity MS560702BA03-50
+","TE CONNECTIVITY","TE Connectivity Sensor Solutions","MS560702BA03-50","","None","None","https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=13871183&manufacturer=TE Connectivity Sensor Solutions&part_name=MS560702BA03-50&search_term=None","MANUFACTURER RECOMMENDATIONS","https://www.snapeda.com/parts/MS560702BA03-50/TE-CO/view-part/?ref=snap","1"
+"U2","LPS22HB","FC'24:LPS22HB","","In Stock","https://www.snapeda.com/parts/LPS22HB/STMicroelectronics/view-part/?ref=eda","
+Pressure Sensor 3.77PSI ~ 18.27PSI (26kPa ~ 126kPa) Absolute 24 b 10-WFLGA Exposed Pad
+","ST Microelectronics","STMicroelectronics","LPS22HB","","WFLGA-10 STMicroelectronics","None","","","https://www.snapeda.com/parts/LPS22HB/STMicroelectronics/view-part/?ref=snap","1"
+"U4","ADXL375BCCZ-RL7","FC'24:ADXL375BCCZ-RL7","","","","","","","","","","","","","","1"
+"U5","LSM6DSOXTR","FC'24:LSM6DSOXTR","","In Stock","https://www.snapeda.com/parts/LSM6DSOXTR/STMicroelectronics/view-part/?ref=eda","
+Accelerometer, Gyroscope, 6 Axis Sensor I²C, SPI Output
+","ST Microelectronics","STMicroelectronics","LSM6DSOXTR","3.0","VFLGA-14 STMicroelectronics","None","https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=3227828&manufacturer=STMicroelectronics&part_name=LSM6DSOXTR&search_term=None","IPC7351B","https://www.snapeda.com/parts/LSM6DSOXTR/STMicroelectronics/view-part/?ref=snap","1"
+"U6","~","FC_Stack_template:FC_Stack_template","","","","","","","","","","","","","","1"

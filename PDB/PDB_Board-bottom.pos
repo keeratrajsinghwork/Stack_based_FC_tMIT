@@ -1,0 +1,8 @@
+### Footprint positions - created on Sat Feb 10 01:31:59 2024 ###
+### Printed by KiCad version 7.0.7
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref      Val             Package                                      PosX       PosY       Rot  Side
+CAM+TELEM  Conn_01x02_Pin  AMASS_XT60PW-F_1x02_P7.20mm_Horizontal   121.3100  -117.3170    0.0000  bottom
+PRIMARY    Conn_01x02_Pin  AMASS_XT60PW-F_1x02_P7.20mm_Horizontal   140.5504  -117.3170    0.0000  bottom
+## End

@@ -1,0 +1,11 @@
+### Footprint positions - created on Mon Apr  1 01:32:56 2024 ###
+### Printed by KiCad version 7.0.7
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                   Package                               PosX       PosY       Rot  Side
+J1        Screw_Terminal_01x03  TerminalBlock_bornier-3_P5.08mm   112.4458  -109.8550    0.0000  top
+J2        Screw_Terminal_01x03  TerminalBlock_bornier-3_P5.08mm   137.7950  -110.2360    0.0000  top
+U1        ~                     FC_Stack_template                 130.0952   -82.3628    0.0000  top
+U2        D4184                 D4184                             125.4816   -64.1576  -90.0000  top
+U3        D4184                 D4184                             151.1356   -64.1576  -90.0000  top
+## End

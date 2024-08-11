@@ -1,0 +1,8 @@
+Qty,Reference(s),Value,LibPart,Footprint,Link
+6,"C1, C2, C4, C5, C6, C7",0.1u,Device:C,Capacitor_SMD:C_0805_2012Metric,https://in.element14.com/kemet/c0805c104z5uactu/cap-0-1-f-50v-z5u-0805/dp/2905203
+5,C3,10u,Device:C,Capacitor_SMD:C_0805_2012Metric,https://in.element14.com/vishay/tmcp0j106mtrf/cap-10uf-6-3v-tant-case-p/dp/3873868?st=10u%20capacitor
+4,"DS1, DS2, DS3, DS4",LED_IMU,Device:LED,LED_SMD:LED_0805_2012Metric,https://in.element14.com/multicomp-pro/mp008293/led-red-220mcd-626nm-0805/dp/3796325?st=led%200805
+4,"Q1, Q2, Q3, Q4",PZT2222A,Transistor_BJT:PZT2222A,Package_TO_SOT_SMD:SOT-223-3_TabPin2,https://in.element14.com/on-semiconductor/spzt2222at1g/trans-npn-40v-0-6a-150deg-c-1/dp/3368670?st=pzt2222a
+4,"R1, R2, R4, R5",22,Device:R,Resistor_SMD:R_0805_2012Metric,https://in.element14.com/koa/rk73h2attd22r0f/res-22r-1-0-25w-0805/dp/3548823
+10,R3,100,Device:R,Resistor_SMD:R_0805_2012Metric,https://in.element14.com/yageo/rc0805fr-07100rl/res-100r-1-0-125w-0805-thick-film/dp/9237364
+4,"R6, R7, R8, R9",56,Device:R,Resistor_SMD:R_0805_2012Metric,https://in.element14.com/walsin/wr08x56r0ftl/res-56r-1-150v-0805-thick-film/dp/2502741

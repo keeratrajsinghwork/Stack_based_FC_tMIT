@@ -1,0 +1,27 @@
+### Footprint positions - created on Sat Feb 10 01:31:59 2024 ###
+### Printed by KiCad version 7.0.7
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref             Val                   Package                                               PosX       PosY       Rot  Side
+3.3V_LED          LED                   LED_0805_2012Metric                               133.5028   -93.0629  180.0000  top
+5V_LED            LED                   LED_0805_2012Metric                               115.0616  -111.0488  180.0000  top
+7.4V1_LED         LED                   LED_0805_2012Metric                               139.5711  -111.1250  180.0000  top
+7.4V2_LED         LED                   LED_0805_2012Metric                               121.5390  -111.0488    0.0000  top
+C1                0.33u                 C_0805_2012Metric                                 123.3356   -86.8162    0.0000  top
+C2                0.1u                  C_0805_2012Metric                                 123.3864   -81.8886    0.0000  top
+C5                10u                   C_0805_2012Metric                                 145.1288   -85.3430  180.0000  top
+C6                100nF                 C_0805_2012Metric                                 145.1288   -82.4982  180.0000  top
+C7                100nF                 C_0805_2012Metric                                 145.1034   -88.1624    0.0000  top
+C8                10u                   C_0805_2012Metric                                 129.6348   -81.8886  180.0000  top
+C9                100nF                 C_0805_2012Metric                                 129.5840   -86.8162  180.0000  top
+CAM+TELEM_SWITCH  Screw_Terminal_01x02  TerminalBlock_bornier-2_P5.08mm                   131.3688  -100.2538    0.0000  top
+J1                Conn_01x02_Pin        JST_GH_SM02B-GHS-TB_1x02-1MP_P1.25mm_Horizontal   127.3402  -129.9676    0.0000  top
+PRIMARY_SWITCH    Screw_Terminal_01x02  TerminalBlock_bornier-2_P5.08mm                   144.1196  -100.2538    0.0000  top
+R1                220                   R_0805_2012Metric                                 139.5984  -108.4326  180.0000  top
+R2                220                   R_0805_2012Metric                                 115.0385  -108.2548  180.0000  top
+R3                220                   R_0805_2012Metric                                 121.4882  -108.2040    0.0000  top
+R6                56                    R_0805_2012Metric                                 133.5259   -90.3451  180.0000  top
+U1                FC_stack              FC_Stack_template                                 127.9652   -99.8728    0.0000  top
+U2                LM7805_TO220          TO-252-2                                          113.9104   -84.5302  180.0000  top
+U3                AMS1117-3.3           SOT-223-3_TabPin2                                 137.3056   -84.2762  180.0000  top
+## End

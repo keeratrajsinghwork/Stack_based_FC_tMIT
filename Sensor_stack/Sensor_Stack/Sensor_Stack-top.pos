@@ -1,0 +1,35 @@
+### Footprint positions - created on Sat Feb 10 01:33:02 2024 ###
+### Printed by KiCad version 7.0.7
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref       Val              Package                   PosX       PosY       Rot  Side
+C1          0.1u             C_0805_2012Metric     110.3884   -70.0024  180.0000  top
+C2          0.1u             C_0805_2012Metric     106.9848   -58.5216  180.0000  top
+C3          10u              C_0805_2012Metric     139.1244   -61.8048  180.0000  top
+C4          0.1u             C_0805_2012Metric     139.1412   -64.4144  180.0000  top
+C5          0.1u             C_0805_2012Metric     143.5500   -68.1228    0.0000  top
+C6          0.1u             C_0805_2012Metric     140.7668   -74.1680  180.0000  top
+C7          0.1u             C_0805_2012Metric     140.9024   -77.1064    0.0000  top
+LED_ADXL    LED_IMU          LED_0805_2012Metric   115.1382  -101.5238  180.0000  top
+LED_LPS22   LED_IMU          LED_0805_2012Metric   141.3260   -84.8868  180.0000  top
+LED_LSM     LED_IMU          LED_0805_2012Metric   130.6853  -101.0666  180.0000  top
+LED_MS5607  LED_IMU          LED_0805_2012Metric   103.5812   -84.5820  180.0000  top
+Q1          PZT2222A         SOT-223-3_TabPin2     107.8484   -91.3384    0.0000  top
+Q2          PZT2222A         SOT-223-3_TabPin2     144.8308   -91.1860    0.0000  top
+Q3          PZT2222A         SOT-223-3_TabPin2     117.9068  -106.7308    0.0000  top
+Q4          PZT2222A         SOT-223-3_TabPin2     133.3500  -106.7816    0.0000  top
+R1          22               R_0805_2012Metric     110.1852   -73.6292    0.0000  top
+R2          22               R_0805_2012Metric     106.3244   -65.2780    0.0000  top
+R3          100              R_0805_2012Metric     139.3336   -68.0720    0.0000  top
+R4          22               R_0805_2012Metric     148.0312   -62.2300    0.0000  top
+R5          22               R_0805_2012Metric     144.9324   -72.6948  180.0000  top
+R6          56               R_0805_2012Metric     110.9980   -84.7852    0.0000  top
+R7          56               R_0805_2012Metric     147.8792   -85.2284    0.0000  top
+R8          56               R_0805_2012Metric     120.8767  -101.5238    0.0000  top
+R9          56               R_0805_2012Metric     136.0932  -101.0666    0.0000  top
+U1          MS560702BA03-50  MS560702BA03-50       105.5308   -71.5618    0.0000  top
+U2          LPS22HB          LPS22HB               106.8324   -61.6712    0.0000  top
+U4          ADXL375BCCZ-RL7  ADXL375BCCZ-RL7       143.7980   -62.8716    0.0000  top
+U5          LSM6DSOXTR       LSM6DSOXTR            145.2288   -77.5756    0.0000  top
+U6          ~                FC_Stack_template     125.3744   -78.1812    0.0000  top
+## End

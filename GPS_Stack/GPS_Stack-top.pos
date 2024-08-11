@@ -1,0 +1,8 @@
+### Footprint positions - created on Mon Apr  1 01:36:07 2024 ###
+### Printed by KiCad version 7.0.7
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val       Package                               PosX       PosY       Rot  Side
+U1        ~         Mikroe_GNSS_MAX_CLICK_ThrustMIT   114.0968  -102.3620  180.0000  top
+U2        ~         FC_Stack_template                 113.1700   -89.2940    0.0000  top
+## End

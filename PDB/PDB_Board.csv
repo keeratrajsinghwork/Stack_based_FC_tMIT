@@ -1,0 +1,12 @@
+Reference,Value,Footprint,Datasheet,Qty,Link
+C1,0.33u,Capacitor_SMD:C_0805_2012Metric,~,5,https://in.element14.com/kemet/c0805f334k3racauto/cap-mlcc-aec-q200-0-33uf-25v-0805/dp/2905341
+C2,0.1u,Capacitor_SMD:C_0805_2012Metric,~,1,https://in.element14.com/kemet/c0805c104z5uactu/cap-0-1-f-50v-z5u-0805/dp/2905203
+"C5, C8",10u,Capacitor_SMD:C_0805_2012Metric,-- mixed values --,5,https://in.element14.com/yageo/cc0805kkx7r5bb106/cap-10uf-6-3v-mlcc-0805/dp/3369299
+"C6, C7, C9",100nF,Capacitor_SMD:C_0805_2012Metric,-- mixed values --,3,https://in.element14.com/kemet/c0805c104z5uactu/cap-0-1-f-50v-z5u-0805/dp/2905203
+"D1, D2, D4",LED,LED_SMD:LED_0805_2012Metric,-- mixed values --,3,https://in.element14.com/multicomp-pro/mp008293/led-red-220mcd-626nm-0805/dp/3796325?st=led%200805
+J1,Conn_01x02_Pin,Connector_JST:JST_GH_SM02B-GHS-TB_1x02-1MP_P1.25mm_Horizontal,~,1,
+"J2,J3",Conn_01x02_Pin,Connector_AMASS:AMASS_XT60PW-F_1x02_P7.20mm_Horizontal,~,2,
+"R1, R2",220,Resistor_SMD:R_0805_2012Metric,~,10,https://in.element14.com/koa/rk73b2attd221j/res-220r-5-0-25w-0805/dp/3548563
+R6,56,Resistor_SMD:R_0805_2012Metric,C102029,1,https://in.element14.com/walsin/wr08x56r0ftl/res-56r-1-150v-0805-thick-film/dp/2502741
+U2,LM7805_TO220,Package_TO_SOT_SMD:TO-252-2,https://www.onsemi.cn/PowerSolutions/document/MC7800-D.PDF,1,https://in.element14.com/stmicroelectronics/l78m05abdt-tr/ic-v-reg-5-0v-smd-dpak-3-7805/dp/1366575RL
+U3,AMS1117-3.3,Package_TO_SOT_SMD:SOT-223-3_TabPin2,http://www.advanced-monolithic.com/pdf/ds1117.pdf,1,

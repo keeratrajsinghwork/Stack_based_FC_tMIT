@@ -1,0 +1,9 @@
+### Footprint positions - created on Mon Apr  1 01:40:28 2024 ###
+### Printed by KiCad version 7.0.7
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val       Package                 PosX       PosY       Rot  Side
+U1        FC_stack  FC_Stack_template   123.1268   -90.1068    0.0000  top
+U2        ~         ADXL375_EVAL        137.7706   -88.0438    0.0000  top
+U3        ~         Altitude_Click_2    113.0948   -89.1422    0.0000  top
+## End

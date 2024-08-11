@@ -1,0 +1,51 @@
+### Footprint positions - created on Sat Feb 10 00:47:46 2024 ###
+### Printed by KiCad version 7.0.7
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                  Package                                        PosX       PosY       Rot  Side
+C1        10pF                 C_0805_2012Metric                          130.0812   -80.8228   90.0000  top
+C2        100n                 C_0805_2012Metric                          121.0564   -68.7070  -90.0000  top
+C3        100n                 C_0805_2012Metric                          123.2916   -68.7070  -90.0000  top
+C4        100n                 C_0805_2012Metric                          125.7300   -68.7070  -90.0000  top
+C5        100n                 C_0805_2012Metric                          128.1176   -68.7070  -90.0000  top
+C6        100n                 C_0805_2012Metric                          130.4036   -68.7070  -90.0000  top
+C7        100n                 C_0805_2012Metric                          132.8928   -68.6918  -90.0000  top
+C8        100n                 C_0805_2012Metric                          135.3820   -68.6816  -90.0000  top
+C9        4.7u                 C_0805_2012Metric                          138.0490   -68.6816  -90.0000  top
+C11       10pF                 C_0805_2012Metric                          133.8580   -78.0288  180.0000  top
+C12       100n                 C_0805_2012Metric                          136.5504   -64.2620  -90.0000  top
+C13       1u                   C_0805_2012Metric                          138.7856   -64.2620   90.0000  top
+C14       100n                 C_0805_2012Metric                          142.4178  -116.5352  -90.0000  top
+C15       4.7u                 C_0805_2012Metric                          147.8788   -86.5632    0.0000  top
+C16       100n                 C_0805_2012Metric                          129.4638  -105.9942    0.0000  top
+DS1       LED                  LED_0805_2012Metric                        125.5268  -115.7732    0.0000  top
+DS2       LED_IMU              LED_0805_2012Metric                        133.9596  -116.0780  180.0000  top
+J1        Conn_02x10_Odd_Even  PinHeader_2x10_P2.54mm_Vertical            143.2560   -64.4652   90.0000  top
+J2        Conn_01x03           PinHeader_1x03_P2.54mm_Vertical            127.3302   -64.2620   90.0000  top
+Q1        PZT2222A             SOT-223-3_TabPin2                          138.8872  -109.2200    0.0000  top
+R1        56                   R_0805_2012Metric                          125.3763  -113.0808    0.0000  top
+R2        383                  R_0805_2012Metric                          138.3773   -80.0608    0.0000  top
+R3        200k                 R_0805_2012Metric                          134.8740   -84.5820    0.0000  top
+R4        22                   R_0805_2012Metric                          144.9324  -116.5352   90.0000  top
+R5        2.5k                 R_0805_2012Metric                          144.2212   -69.3928   90.0000  top
+R6        22                   R_0805_2012Metric                          140.7160   -93.2688    0.0000  top
+R7        2.5k                 R_0805_2012Metric                          132.2832   -87.8840    0.0000  top
+R8        22                   R_0805_2012Metric                          145.8468   -93.5736  180.0000  top
+R9        22                   R_0805_2012Metric                          157.6324   -80.4672  180.0000  top
+R10       22                   R_0805_2012Metric                          157.6324   -82.7532    0.0000  top
+R11       22                   R_0805_2012Metric                          157.6324   -84.9376    0.0000  top
+R12       22                   R_0805_2012Metric                          157.6305   -78.2320    0.0000  top
+R13       22                   R_0805_2012Metric                          157.6324   -75.9460    0.0000  top
+R14       22                   R_0805_2012Metric                          148.8440   -71.8312   90.0000  top
+R15       22                   R_0805_2012Metric                          146.5580   -70.4088   90.0000  top
+R16       22                   R_0805_2012Metric                          157.6324   -87.1220    0.0000  top
+R17       10k                  R_0805_2012Metric                          135.9408   -87.8840    0.0000  top
+R18       56                   R_0805_2012Metric                          133.1468  -109.5248   90.0000  top
+R19       22                   R_0805_2012Metric                          147.8280   -88.8492    0.0000  top
+R20       10k                  R_0805_2012Metric                          125.0188   -61.0108  180.0000  top
+SW1       SW_Push              SW_Push_SPST_NO_Alps_SKRK                  128.6510  -102.6160    0.0000  top
+U1        Micro_SD_Card        microSD_HC_Molex_104031-0811               152.2184  -107.6354  180.0000  top
+U2        STM32F411CEUx        QFN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm        144.9660   -80.6592    0.0000  top
+U3        ~                    FC_Stack_template                          143.9114   -83.7752    0.0000  top
+X1        27MHz                Crystal_SMD_Abracon_ABM8G-4Pin_3.2x2.5mm   133.9420   -80.8888    0.0000  top
+## End

@@ -1,0 +1,1029 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>D:\Stack_based_FC_tMIT\Sensor_stack\Sensor_Stack\Sensor_Stack.kicad_sch</source>
+    <date>10-02-2024 00:49:49</date>
+    <tool>Eeschema 7.0.7</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Sensor_Stack.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sensor_Stack.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5cd7633d-c3f5-42a5-8a6a-b4933eecbf35</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sensor_Stack.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f68ad9f1-9f11-47f5-a014-81d80820ee01</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sensor_Stack.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9c5472c6-8cea-4c08-a0cf-f1efcf8b0e88</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sensor_Stack.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5f81609c-2ed6-4dc0-973a-7a20d71d0512</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sensor_Stack.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>754458ea-6fad-4004-a1c9-865c87e8efa0</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sensor_Stack.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fb4de98c-ec59-4383-826e-457d3fe6e276</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sensor_Stack.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>06c7fc27-1e2c-4929-bb77-4566a04b76a8</tstamps>
+    </comp>
+    <comp ref="DS1">
+      <value>LED_IMU</value>
+      <footprint>LED_SMD:LED_0805_2012Metric</footprint>
+      <datasheet>C2297</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sensor_Stack.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f8832b3d-39c3-4515-9c07-899fd136f318</tstamps>
+    </comp>
+    <comp ref="DS2">
+      <value>LED_IMU</value>
+      <footprint>LED_SMD:LED_0805_2012Metric</footprint>
+      <datasheet>C2297</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sensor_Stack.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1c0fa9e3-33b0-41d9-a981-1e330fdf5440</tstamps>
+    </comp>
+    <comp ref="DS3">
+      <value>LED_IMU</value>
+      <footprint>LED_SMD:LED_0805_2012Metric</footprint>
+      <datasheet>C2297</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sensor_Stack.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3b58eba7-fda6-49ee-a504-01a86173b554</tstamps>
+    </comp>
+    <comp ref="DS4">
+      <value>LED_IMU</value>
+      <footprint>LED_SMD:LED_0805_2012Metric</footprint>
+      <datasheet>C2297</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sensor_Stack.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>63bb4926-2669-4f02-b567-8fdd1b11d217</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>PZT2222A</value>
+      <footprint>Package_TO_SOT_SMD:SOT-223-3_TabPin2</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PZT2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, SOT-223"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sensor_Stack.kicad_sch"/>
+      <property name="ki_description" value="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, SOT-223"/>
+      <property name="ki_keywords" value="NPN General Puprose Transistor SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>25b0aa48-f240-4f61-b2f5-a0555500eaa9</tstamps>
+    </comp>
+    <comp ref="Q2">
+      <value>PZT2222A</value>
+      <footprint>Package_TO_SOT_SMD:SOT-223-3_TabPin2</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PZT2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, SOT-223"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sensor_Stack.kicad_sch"/>
+      <property name="ki_description" value="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, SOT-223"/>
+      <property name="ki_keywords" value="NPN General Puprose Transistor SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eca878e6-f9ac-4f93-8809-7862c576293c</tstamps>
+    </comp>
+    <comp ref="Q3">
+      <value>PZT2222A</value>
+      <footprint>Package_TO_SOT_SMD:SOT-223-3_TabPin2</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PZT2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, SOT-223"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sensor_Stack.kicad_sch"/>
+      <property name="ki_description" value="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, SOT-223"/>
+      <property name="ki_keywords" value="NPN General Puprose Transistor SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2965714c-550d-4e3e-8632-0fde9123ca76</tstamps>
+    </comp>
+    <comp ref="Q4">
+      <value>PZT2222A</value>
+      <footprint>Package_TO_SOT_SMD:SOT-223-3_TabPin2</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PZT2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, SOT-223"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sensor_Stack.kicad_sch"/>
+      <property name="ki_description" value="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, SOT-223"/>
+      <property name="ki_keywords" value="NPN General Puprose Transistor SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>599c440a-0ce4-43d8-9ab7-34a23e49cd25</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>22</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sensor_Stack.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c9adec13-7188-4601-93eb-813c4fb08ca6</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>22</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sensor_Stack.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>083dd97f-7c12-45d0-9d0e-ace8a61e4033</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sensor_Stack.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>71136cbd-ecf4-4a6f-ae28-44df3bdf626e</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>22</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sensor_Stack.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5128b062-691d-4973-933e-123124e2d61c</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>22</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sensor_Stack.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ccd7d557-f6bb-4b4d-af5a-b3f40cf9cea7</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>56</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>C106949</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sensor_Stack.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ecedff49-675b-4521-af95-e5ce64a010bd</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>56</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>C106949</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sensor_Stack.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>21eb174f-2b75-47c8-802e-6a6badeb05c2</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>56</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>C106949</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sensor_Stack.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>216554aa-e9de-413c-a53d-ecf67d8aab23</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>56</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>C106949</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sensor_Stack.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bc259339-1107-4c94-ae0e-cdd60b00ec94</tstamps>
+    </comp>
+    <comp ref="TP1">
+      <value>TestPoint_Probe</value>
+      <footprint>TestPoint:TestPoint_Pad_2.0x2.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint_Probe" description="test point (alternative probe-style design)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sensor_Stack.kicad_sch"/>
+      <property name="ki_description" value="test point (alternative probe-style design)"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>680a0d09-f013-4ebe-8223-cb64df2e718d</tstamps>
+    </comp>
+    <comp ref="TP2">
+      <value>TestPoint_Probe</value>
+      <footprint>TestPoint:TestPoint_Pad_2.0x2.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint_Probe" description="test point (alternative probe-style design)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sensor_Stack.kicad_sch"/>
+      <property name="ki_description" value="test point (alternative probe-style design)"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3b79bc4c-1cd4-472f-9f7f-47d8e6c080aa</tstamps>
+    </comp>
+    <comp ref="TP3">
+      <value>TestPoint_Probe</value>
+      <footprint>TestPoint:TestPoint_Pad_2.0x2.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint_Probe" description="test point (alternative probe-style design)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sensor_Stack.kicad_sch"/>
+      <property name="ki_description" value="test point (alternative probe-style design)"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>21edb8f3-655c-41a8-9be3-cc37bf938fe2</tstamps>
+    </comp>
+    <comp ref="TP4">
+      <value>TestPoint_Probe</value>
+      <footprint>TestPoint:TestPoint_Pad_2.0x2.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint_Probe" description="test point (alternative probe-style design)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sensor_Stack.kicad_sch"/>
+      <property name="ki_description" value="test point (alternative probe-style design)"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>273e3b5d-688b-4c72-8859-f513827ef000</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>MS560702BA03-50</value>
+      <footprint>FC'24:MS560702BA03-50</footprint>
+      <fields>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/MS560702BA03-50/TE-CO/view-part/?ref=eda</field>
+        <field name="Description">
+Sensor, BAROMETRIC SENSOR METAL CAP, Pressure, MS560702BA03-50 | TE Connectivity MS560702BA03-50
+</field>
+        <field name="MANUFACTURER">TE CONNECTIVITY</field>
+        <field name="MF">TE Connectivity Sensor Solutions</field>
+        <field name="MP">MS560702BA03-50</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=13871183&amp;manufacturer=TE Connectivity Sensor Solutions&amp;part_name=MS560702BA03-50&amp;search_term=None</field>
+        <field name="STANDARD">MANUFACTURER RECOMMENDATIONS</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/MS560702BA03-50/TE-CO/view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="MS560702BA03-50" part="MS560702BA03-50" description=""/>
+      <property name="MF" value="TE Connectivity Sensor Solutions"/>
+      <property name="Description" value="&#xA;Sensor, BAROMETRIC SENSOR METAL CAP, Pressure, MS560702BA03-50 | TE Connectivity MS560702BA03-50&#xA;"/>
+      <property name="Package" value="None"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/MS560702BA03-50/TE-CO/view-part/?ref=eda"/>
+      <property name="STANDARD" value="MANUFACTURER RECOMMENDATIONS"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/MS560702BA03-50/TE-CO/view-part/?ref=snap"/>
+      <property name="MP" value="MS560702BA03-50"/>
+      <property name="Purchase-URL" value="https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=13871183&amp;manufacturer=TE Connectivity Sensor Solutions&amp;part_name=MS560702BA03-50&amp;search_term=None"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="TE CONNECTIVITY"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sensor_Stack.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2e807369-1997-4fbc-b450-7c03d61a48a3</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>LPS22HB</value>
+      <footprint>FC'24:LPS22HB</footprint>
+      <fields>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/LPS22HB/STMicroelectronics/view-part/?ref=eda</field>
+        <field name="Description">
+Pressure Sensor 3.77PSI ~ 18.27PSI (26kPa ~ 126kPa) Absolute 24 b 10-WFLGA Exposed Pad
+</field>
+        <field name="MANUFACTURER">ST Microelectronics</field>
+        <field name="MF">STMicroelectronics</field>
+        <field name="MP">LPS22HB</field>
+        <field name="Package">WFLGA-10 STMicroelectronics</field>
+        <field name="Price">None</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/LPS22HB/STMicroelectronics/view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="LPS22HB" part="LPS22HB" description=""/>
+      <property name="MF" value="STMicroelectronics"/>
+      <property name="Description" value="&#xA;Pressure Sensor 3.77PSI ~ 18.27PSI (26kPa ~ 126kPa) Absolute 24 b 10-WFLGA Exposed Pad&#xA;"/>
+      <property name="Package" value="WFLGA-10 STMicroelectronics"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/LPS22HB/STMicroelectronics/view-part/?ref=eda"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/LPS22HB/STMicroelectronics/view-part/?ref=snap"/>
+      <property name="MP" value="LPS22HB"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="ST Microelectronics"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sensor_Stack.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2121e9ef-d6d7-448f-9dbf-b361fb7e2775</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>ADXL375BCCZ-RL7</value>
+      <footprint>FC'24:ADXL375BCCZ-RL7</footprint>
+      <libsource lib="" part="ADXL375BCCZ-RL7_1" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sensor_Stack.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>55771328-a8c1-4336-b94f-c062873ecb2c</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>LSM6DSOXTR</value>
+      <footprint>FC'24:LSM6DSOXTR</footprint>
+      <fields>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/LSM6DSOXTR/STMicroelectronics/view-part/?ref=eda</field>
+        <field name="Description">
+Accelerometer, Gyroscope, 6 Axis Sensor I²C, SPI Output
+</field>
+        <field name="MANUFACTURER">ST Microelectronics</field>
+        <field name="MF">STMicroelectronics</field>
+        <field name="MP">LSM6DSOXTR</field>
+        <field name="PARTREV">3.0</field>
+        <field name="Package">VFLGA-14 STMicroelectronics</field>
+        <field name="Price">None</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=3227828&amp;manufacturer=STMicroelectronics&amp;part_name=LSM6DSOXTR&amp;search_term=None</field>
+        <field name="STANDARD">IPC7351B</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/LSM6DSOXTR/STMicroelectronics/view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="LSM6DSOXTR" part="LSM6DSOXTR" description=""/>
+      <property name="MF" value="STMicroelectronics"/>
+      <property name="Description" value="&#xA;Accelerometer, Gyroscope, 6 Axis Sensor I²C, SPI Output&#xA;"/>
+      <property name="Package" value="VFLGA-14 STMicroelectronics"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/LSM6DSOXTR/STMicroelectronics/view-part/?ref=eda"/>
+      <property name="STANDARD" value="IPC7351B"/>
+      <property name="PARTREV" value="3.0"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/LSM6DSOXTR/STMicroelectronics/view-part/?ref=snap"/>
+      <property name="MP" value="LSM6DSOXTR"/>
+      <property name="Purchase-URL" value="https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=3227828&amp;manufacturer=STMicroelectronics&amp;part_name=LSM6DSOXTR&amp;search_term=None"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="ST Microelectronics"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sensor_Stack.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b55d960b-aaf6-4f6e-b7fa-48819149cd6d</tstamps>
+    </comp>
+    <comp ref="U6">
+      <value>~</value>
+      <footprint>FC_Stack_template:FC_Stack_template</footprint>
+      <libsource lib="fc_stack" part="Template" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sensor_Stack.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c7187137-39ad-4649-b7fa-fe13e5047369</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="" part="ADXL375BCCZ-RL7_1">
+      <fields>
+        <field name="Reference">U</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Vdd/io" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="Reserved" type="bidirectional"/>
+        <pin num="4" name="GND" type="power_in"/>
+        <pin num="5" name="GND" type="power_in"/>
+        <pin num="6" name="Vs" type="power_in"/>
+        <pin num="7" name="CS" type="bidirectional"/>
+        <pin num="8" name="INT1" type="bidirectional"/>
+        <pin num="9" name="INT2" type="bidirectional"/>
+        <pin num="10" name="NC" type="no_connect"/>
+        <pin num="11" name="Reserved" type="bidirectional"/>
+        <pin num="12" name="SDO" type="bidirectional"/>
+        <pin num="13" name="SDA/SDI/SDIO" type="bidirectional"/>
+        <pin num="14" name="SCL/SCLK" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="TestPoint_Probe">
+      <description>test point (alternative probe-style design)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Pin*</fp>
+        <fp>Test*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">TP</field>
+        <field name="Value">TestPoint_Probe</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="LPS22HB" part="LPS22HB">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LPS22HB</field>
+        <field name="Footprint">LPS22HB:LGA10R50P2X3_200X200X80</field>
+        <field name="MF">STMicroelectronics</field>
+        <field name="Description">
+Pressure Sensor 3.77PSI ~ 18.27PSI (26kPa ~ 126kPa) Absolute 24 b 10-WFLGA Exposed Pad
+</field>
+        <field name="Package">WFLGA-10 STMicroelectronics</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/LPS22HB/STMicroelectronics/view-part/?ref=eda</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/LPS22HB/STMicroelectronics/view-part/?ref=snap</field>
+        <field name="MP">LPS22HB</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">ST Microelectronics</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VDD_IO" type="power_in"/>
+        <pin num="2" name="SCL/SPC" type="input"/>
+        <pin num="3" name="RES" type="power_in"/>
+        <pin num="4" name="SDA/SDI/SDO" type="bidirectional"/>
+        <pin num="5" name="SDO/SA0" type="bidirectional"/>
+        <pin num="6" name="CS" type="input"/>
+        <pin num="7" name="INT_DRDY" type="output"/>
+        <pin num="8" name="GND" type="power_in"/>
+        <pin num="9" name="GND" type="power_in"/>
+        <pin num="10" name="VDD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="LSM6DSOXTR" part="LSM6DSOXTR">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LSM6DSOXTR</field>
+        <field name="Footprint">LSM6DSOXTR:PQFN50P250X300X86-14N</field>
+        <field name="MF">STMicroelectronics</field>
+        <field name="Description">
+Accelerometer, Gyroscope, 6 Axis Sensor I²C, SPI Output
+</field>
+        <field name="Package">VFLGA-14 STMicroelectronics</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/LSM6DSOXTR/STMicroelectronics/view-part/?ref=eda</field>
+        <field name="STANDARD">IPC7351B</field>
+        <field name="PARTREV">3.0</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/LSM6DSOXTR/STMicroelectronics/view-part/?ref=snap</field>
+        <field name="MP">LSM6DSOXTR</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=3227828&amp;manufacturer=STMicroelectronics&amp;part_name=LSM6DSOXTR&amp;search_term=None</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">ST Microelectronics</field>
+      </fields>
+      <pins>
+        <pin num="1" name="SDO/SA0" type="bidirectional"/>
+        <pin num="2" name="SDX" type="bidirectional"/>
+        <pin num="3" name="SCX" type="bidirectional"/>
+        <pin num="4" name="INT1" type="output"/>
+        <pin num="5" name="VDDIO" type="power_in"/>
+        <pin num="6" name="GND" type="power_in"/>
+        <pin num="7" name="GND" type="power_in"/>
+        <pin num="8" name="VDD" type="power_in"/>
+        <pin num="9" name="INT2" type="output"/>
+        <pin num="10" name="OCS_AUX" type="bidirectional"/>
+        <pin num="11" name="SDO_AUX" type="bidirectional"/>
+        <pin num="12" name="CS" type="input"/>
+        <pin num="13" name="SCL" type="input"/>
+        <pin num="14" name="SDA" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="MS560702BA03-50" part="MS560702BA03-50">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MS560702BA03-50</field>
+        <field name="Footprint">MS560702BA03-50:SON125P300X500X100-8N</field>
+        <field name="MF">TE Connectivity Sensor Solutions</field>
+        <field name="Description">
+Sensor, BAROMETRIC SENSOR METAL CAP, Pressure, MS560702BA03-50 | TE Connectivity MS560702BA03-50
+</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/MS560702BA03-50/TE-CO/view-part/?ref=eda</field>
+        <field name="STANDARD">MANUFACTURER RECOMMENDATIONS</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/MS560702BA03-50/TE-CO/view-part/?ref=snap</field>
+        <field name="MP">MS560702BA03-50</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=13871183&amp;manufacturer=TE Connectivity Sensor Solutions&amp;part_name=MS560702BA03-50&amp;search_term=None</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">TE CONNECTIVITY</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VDD" type="power_in"/>
+        <pin num="2" name="PS" type="input"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="~{CSB}" type="input"/>
+        <pin num="5" name="~{CSB}" type="input"/>
+        <pin num="6" name="SDO" type="output"/>
+        <pin num="7" name="SDI/SDA" type="bidirectional"/>
+        <pin num="8" name="SCLK" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistor_BJT" part="PZT2222A">
+      <description>1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, SOT-223</description>
+      <docs>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</docs>
+      <footprints>
+        <fp>SOT?223*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">PZT2222A</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-223-3_TabPin2</field>
+        <field name="Datasheet">https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</field>
+      </fields>
+      <pins>
+        <pin num="1" name="B" type="input"/>
+        <pin num="2" name="C" type="passive"/>
+        <pin num="3" name="E" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="fc_stack" part="Template">
+      <fields>
+        <field name="Reference">U</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
+        <pin num="5" name="" type="passive"/>
+        <pin num="6" name="" type="passive"/>
+        <pin num="7" name="" type="passive"/>
+        <pin num="8" name="" type="passive"/>
+        <pin num="9" name="" type="passive"/>
+        <pin num="10" name="" type="passive"/>
+        <pin num="11" name="" type="passive"/>
+        <pin num="12" name="" type="passive"/>
+        <pin num="13" name="" type="passive"/>
+        <pin num="14" name="" type="passive"/>
+        <pin num="15" name="" type="passive"/>
+        <pin num="16" name="" type="passive"/>
+        <pin num="17" name="" type="passive"/>
+        <pin num="18" name="" type="passive"/>
+        <pin num="19" name="" type="passive"/>
+        <pin num="20" name="" type="passive"/>
+        <pin num="21" name="" type="passive"/>
+        <pin num="22" name="" type="passive"/>
+        <pin num="23" name="" type="passive"/>
+        <pin num="24" name="" type="passive"/>
+        <pin num="25" name="" type="passive"/>
+        <pin num="26" name="" type="passive"/>
+        <pin num="27" name="" type="passive"/>
+        <pin num="28" name="" type="passive"/>
+        <pin num="29" name="" type="passive"/>
+        <pin num="30" name="" type="passive"/>
+        <pin num="31" name="" type="passive"/>
+        <pin num="32" name="" type="passive"/>
+        <pin num="33" name="" type="passive"/>
+        <pin num="34" name="" type="passive"/>
+        <pin num="35" name="" type="passive"/>
+        <pin num="36" name="" type="passive"/>
+        <pin num="37" name="" type="passive"/>
+        <pin num="38" name="" type="passive"/>
+        <pin num="39" name="" type="passive"/>
+        <pin num="40" name="" type="passive"/>
+        <pin num="41" name="" type="passive"/>
+        <pin num="42" name="" type="passive"/>
+        <pin num="43" name="" type="passive"/>
+        <pin num="44" name="" type="passive"/>
+        <pin num="45" name="" type="passive"/>
+        <pin num="49" name="1" type="input"/>
+        <pin num="50" name="1" type="input"/>
+        <pin num="51" name="1" type="input"/>
+        <pin num="52" name="1" type="input"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>D:\7.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>D:\7.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="LPS22HB">
+      <uri>D:\7.0\share\kicad\symbols\/FC'24/LPS22HB.kicad_sym</uri>
+    </library>
+    <library logical="LSM6DSOXTR">
+      <uri>D:\7.0\share\kicad\symbols\/FC'24/LSM6DSOXTR.kicad_sym</uri>
+    </library>
+    <library logical="MS560702BA03-50">
+      <uri>D:\7.0\share\kicad\symbols\/FC'24/MS560702BA03-50.kicad_sym</uri>
+    </library>
+    <library logical="Transistor_BJT">
+      <uri>D:\7.0\share\kicad\symbols\/Transistor_BJT.kicad_sym</uri>
+    </library>
+    <library logical="fc_stack">
+      <uri>C:/Users/music/Dropbox/PC/Downloads/fc_stack.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="3.3V">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="DS1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="DS2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="DS3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="DS4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="Q1" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="Q2" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="Q3" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="Q4" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="TP1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U2" pin="1" pinfunction="VDD_IO" pintype="power_in"/>
+      <node ref="U2" pin="10" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U4" pin="1" pinfunction="Vdd/io" pintype="power_in"/>
+      <node ref="U5" pin="5" pinfunction="VDDIO" pintype="power_in"/>
+      <node ref="U5" pin="8" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U6" pin="35" pintype="passive"/>
+      <node ref="U6" pin="37" pintype="passive"/>
+      <node ref="U6" pin="38" pintype="passive"/>
+    </net>
+    <net code="2" name="CS_ADXL">
+      <node ref="U4" pin="7" pinfunction="CS" pintype="bidirectional"/>
+      <node ref="U6" pin="1" pintype="passive"/>
+    </net>
+    <net code="3" name="CS_LPS">
+      <node ref="U2" pin="6" pinfunction="CS" pintype="input"/>
+      <node ref="U6" pin="26" pintype="passive"/>
+    </net>
+    <net code="4" name="CS_LSM">
+      <node ref="U5" pin="12" pinfunction="CS" pintype="input"/>
+      <node ref="U6" pin="6" pintype="passive"/>
+    </net>
+    <net code="5" name="CS_MS5607">
+      <node ref="U1" pin="4" pinfunction="~{CSB}" pintype="input"/>
+      <node ref="U1" pin="5" pinfunction="~{CSB}" pintype="input"/>
+      <node ref="U6" pin="30" pintype="passive"/>
+    </net>
+    <net code="6" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="Q1" pin="3" pinfunction="E" pintype="passive"/>
+      <node ref="Q2" pin="3" pinfunction="E" pintype="passive"/>
+      <node ref="Q3" pin="3" pinfunction="E" pintype="passive"/>
+      <node ref="Q4" pin="3" pinfunction="E" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="PS" pintype="input"/>
+      <node ref="U1" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="3" pinfunction="RES" pintype="power_in"/>
+      <node ref="U2" pin="8" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="9" pinfunction="GND" pintype="power_in"/>
+      <node ref="U4" pin="11" pinfunction="Reserved" pintype="bidirectional"/>
+      <node ref="U4" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U4" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="U4" pin="5" pinfunction="GND" pintype="power_in"/>
+      <node ref="U5" pin="2" pinfunction="SDX" pintype="bidirectional"/>
+      <node ref="U5" pin="3" pinfunction="SCX" pintype="bidirectional"/>
+      <node ref="U5" pin="6" pinfunction="GND" pintype="power_in"/>
+      <node ref="U5" pin="7" pinfunction="GND" pintype="power_in"/>
+      <node ref="U6" pin="49" pinfunction="1" pintype="input"/>
+      <node ref="U6" pin="50" pinfunction="1" pintype="input"/>
+      <node ref="U6" pin="51" pinfunction="1" pintype="input"/>
+      <node ref="U6" pin="52" pinfunction="1" pintype="input"/>
+    </net>
+    <net code="7" name="INT_ADXL">
+      <node ref="U4" pin="8" pinfunction="INT1" pintype="bidirectional"/>
+      <node ref="U6" pin="5" pintype="passive"/>
+    </net>
+    <net code="8" name="INT_LPS">
+      <node ref="U2" pin="7" pinfunction="INT_DRDY" pintype="output"/>
+      <node ref="U6" pin="10" pintype="passive"/>
+    </net>
+    <net code="9" name="INT_LSM">
+      <node ref="U5" pin="4" pinfunction="INT1" pintype="output"/>
+      <node ref="U6" pin="7" pintype="passive"/>
+    </net>
+    <net code="10" name="MISO_SPI1">
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U6" pin="27" pintype="passive"/>
+    </net>
+    <net code="11" name="MISO_SPI2">
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="U6" pin="4" pintype="passive"/>
+    </net>
+    <net code="12" name="MOSI_SPI1">
+      <node ref="U1" pin="7" pinfunction="SDI/SDA" pintype="bidirectional"/>
+      <node ref="U2" pin="4" pinfunction="SDA/SDI/SDO" pintype="bidirectional"/>
+      <node ref="U6" pin="28" pintype="passive"/>
+    </net>
+    <net code="13" name="MOSI_SPI2">
+      <node ref="U4" pin="13" pinfunction="SDA/SDI/SDIO" pintype="bidirectional"/>
+      <node ref="U5" pin="14" pinfunction="SDA" pintype="bidirectional"/>
+      <node ref="U6" pin="3" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(DS1-K)">
+      <node ref="DS1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(DS2-K)">
+      <node ref="DS2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(DS3-K)">
+      <node ref="DS3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(DS4-K)">
+      <node ref="DS4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(Q1-C)">
+      <node ref="Q1" pin="2" pinfunction="C" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(Q2-C)">
+      <node ref="Q2" pin="2" pinfunction="C" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(Q3-C)">
+      <node ref="Q3" pin="2" pinfunction="C" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(Q4-C)">
+      <node ref="Q4" pin="2" pinfunction="C" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(U1-SDO)">
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="SDO" pintype="output"/>
+    </net>
+    <net code="23" name="Net-(U2-SDO{slash}SA0)">
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="U2" pin="5" pinfunction="SDO/SA0" pintype="bidirectional"/>
+    </net>
+    <net code="24" name="Net-(U4-SDO)">
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="U4" pin="12" pinfunction="SDO" pintype="bidirectional"/>
+    </net>
+    <net code="25" name="Net-(U4-Vs)">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="TP3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U4" pin="3" pinfunction="Reserved" pintype="bidirectional"/>
+      <node ref="U4" pin="6" pinfunction="Vs" pintype="power_in"/>
+    </net>
+    <net code="26" name="Net-(U5-SDO{slash}SA0)">
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="U5" pin="1" pinfunction="SDO/SA0" pintype="bidirectional"/>
+    </net>
+    <net code="27" name="SCLK_SPI1">
+      <node ref="U1" pin="8" pinfunction="SCLK" pintype="input"/>
+      <node ref="U2" pin="2" pinfunction="SCL/SPC" pintype="input"/>
+      <node ref="U6" pin="29" pintype="passive"/>
+    </net>
+    <net code="28" name="SCLK_SPI2">
+      <node ref="U4" pin="14" pinfunction="SCL/SCLK" pintype="bidirectional"/>
+      <node ref="U5" pin="13" pinfunction="SCL" pintype="input"/>
+      <node ref="U6" pin="2" pintype="passive"/>
+    </net>
+    <net code="29" name="unconnected-(U4-INT2-Pad9)">
+      <node ref="U4" pin="9" pinfunction="INT2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="30" name="unconnected-(U4-NC-Pad10)">
+      <node ref="U4" pin="10" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="31" name="unconnected-(U5-INT2-Pad9)">
+      <node ref="U5" pin="9" pinfunction="INT2" pintype="output+no_connect"/>
+    </net>
+    <net code="32" name="unconnected-(U5-OCS_AUX-Pad10)">
+      <node ref="U5" pin="10" pinfunction="OCS_AUX" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="33" name="unconnected-(U5-SDO_AUX-Pad11)">
+      <node ref="U5" pin="11" pinfunction="SDO_AUX" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="34" name="unconnected-(U6-Pad8)">
+      <node ref="U6" pin="8" pintype="passive+no_connect"/>
+    </net>
+    <net code="35" name="unconnected-(U6-Pad9)">
+      <node ref="U6" pin="9" pintype="passive+no_connect"/>
+    </net>
+    <net code="36" name="unconnected-(U6-Pad11)">
+      <node ref="U6" pin="11" pintype="passive+no_connect"/>
+    </net>
+    <net code="37" name="unconnected-(U6-Pad12)">
+      <node ref="U6" pin="12" pintype="passive+no_connect"/>
+    </net>
+    <net code="38" name="unconnected-(U6-Pad13)">
+      <node ref="U6" pin="13" pintype="passive+no_connect"/>
+    </net>
+    <net code="39" name="unconnected-(U6-Pad14)">
+      <node ref="U6" pin="14" pintype="passive+no_connect"/>
+    </net>
+    <net code="40" name="unconnected-(U6-Pad15)">
+      <node ref="U6" pin="15" pintype="passive+no_connect"/>
+    </net>
+    <net code="41" name="unconnected-(U6-Pad16)">
+      <node ref="U6" pin="16" pintype="passive+no_connect"/>
+    </net>
+    <net code="42" name="unconnected-(U6-Pad17)">
+      <node ref="U6" pin="17" pintype="passive+no_connect"/>
+    </net>
+    <net code="43" name="unconnected-(U6-Pad18)">
+      <node ref="U6" pin="18" pintype="passive+no_connect"/>
+    </net>
+    <net code="44" name="unconnected-(U6-Pad19)">
+      <node ref="U6" pin="19" pintype="passive+no_connect"/>
+    </net>
+    <net code="45" name="unconnected-(U6-Pad20)">
+      <node ref="U6" pin="20" pintype="passive+no_connect"/>
+    </net>
+    <net code="46" name="unconnected-(U6-Pad21)">
+      <node ref="U6" pin="21" pintype="passive+no_connect"/>
+    </net>
+    <net code="47" name="unconnected-(U6-Pad22)">
+      <node ref="U6" pin="22" pintype="passive+no_connect"/>
+    </net>
+    <net code="48" name="unconnected-(U6-Pad23)">
+      <node ref="U6" pin="23" pintype="passive+no_connect"/>
+    </net>
+    <net code="49" name="unconnected-(U6-Pad24)">
+      <node ref="U6" pin="24" pintype="passive+no_connect"/>
+    </net>
+    <net code="50" name="unconnected-(U6-Pad25)">
+      <node ref="U6" pin="25" pintype="passive+no_connect"/>
+    </net>
+    <net code="51" name="unconnected-(U6-Pad31)">
+      <node ref="U6" pin="31" pintype="passive+no_connect"/>
+    </net>
+    <net code="52" name="unconnected-(U6-Pad32)">
+      <node ref="U6" pin="32" pintype="passive+no_connect"/>
+    </net>
+    <net code="53" name="unconnected-(U6-Pad33)">
+      <node ref="U6" pin="33" pintype="passive+no_connect"/>
+    </net>
+    <net code="54" name="unconnected-(U6-Pad34)">
+      <node ref="U6" pin="34" pintype="passive+no_connect"/>
+    </net>
+    <net code="55" name="unconnected-(U6-Pad36)">
+      <node ref="U6" pin="36" pintype="passive+no_connect"/>
+    </net>
+    <net code="56" name="unconnected-(U6-Pad39)">
+      <node ref="U6" pin="39" pintype="passive+no_connect"/>
+    </net>
+    <net code="57" name="unconnected-(U6-Pad40)">
+      <node ref="U6" pin="40" pintype="passive+no_connect"/>
+    </net>
+    <net code="58" name="unconnected-(U6-Pad41)">
+      <node ref="U6" pin="41" pintype="passive+no_connect"/>
+    </net>
+    <net code="59" name="unconnected-(U6-Pad42)">
+      <node ref="U6" pin="42" pintype="passive+no_connect"/>
+    </net>
+    <net code="60" name="unconnected-(U6-Pad43)">
+      <node ref="U6" pin="43" pintype="passive+no_connect"/>
+    </net>
+    <net code="61" name="unconnected-(U6-Pad44)">
+      <node ref="U6" pin="44" pintype="passive+no_connect"/>
+    </net>
+    <net code="62" name="unconnected-(U6-Pad45)">
+      <node ref="U6" pin="45" pintype="passive+no_connect"/>
+    </net>
+  </nets>
+</export>

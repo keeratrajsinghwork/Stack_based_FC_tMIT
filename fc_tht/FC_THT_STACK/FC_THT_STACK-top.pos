@@ -1,0 +1,10 @@
+### Footprint positions - created on Mon Apr  1 01:38:35 2024 ###
+### Printed by KiCad version 7.0.7
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val            Package                 PosX       PosY       Rot  Side
+U1        LPS22HB        LPS22HB_ThrustMIT   129.9500  -103.4500  -90.0000  top
+U2        LSM6DSO32X     LSM6DSO32X          132.0350   -81.1350  180.0000  top
+U3        STM32F411CEU6  STM32F411CEU6       107.1000   -67.2950  180.0000  top
+U4        FC_stack       FC_Stack_template   118.2056   -83.4186    0.0000  top
+## End
